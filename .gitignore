@@ -1,0 +1,11 @@
+Ignore backup files
+bak
+ignore ,orgfiles
+.org
+ignore java class files
+.class
+ignore php
+.php
+ignore all files starting with a.e.i.o.u
+[aeiou].txt
+
